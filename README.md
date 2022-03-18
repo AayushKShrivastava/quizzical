@@ -15,4 +15,7 @@ User can restart with new questions by clicking the "Play Again" button.
 I used the Create-React-App environment to build this quiz app. I wrote the entire JavaScript, HTML, and CSS code for this app.
 While completing this project I learned about making effective use of custom components, and pulling data from an API, and useState, and useEffect hooks.
 
+## Technology and Tools Used
+JavaScript, Create-React-App environment, HTML, CSS, Figma, Netlify(Deployment)
+
 
